@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 **If you’re going to make up a story, make up a story you like.** We’re each working with different, incomplete, and imperfect information. If you’re going to draw conclusions and fill in blanks, tell a story you enjoy. Then you’ll be happier and have more brainspace for things that really matter to you.
 
-[**The serial comma.**](https://en.wikipedia.org/wiki/Serial_comma) Effective communication is complicated and difficult. If using a comma will eliminate some ambiguity then use the comma.
+[**The serial comma.**](https://en.wikipedia.org/wiki/Serial_comma) Effective communication is complicated and difficult. If using a comma before an "or" or "and" will eliminate some ambiguity then use the comma.
 
 ### What quirks does @solvaholic have?
 

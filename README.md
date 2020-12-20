@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 -->
+
 <!--
 **solvaholic/solvaholic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,7 +38,7 @@ One person’s quirk is another person’s norm. Here are a few of mine it may h
 
 **I learn by doing and understanding.** If you want me to learn or do something, make it interactive and help me see how it will help solve a problem I care about.
 
-**I don’t multitask.** If you have my attention, you have all of it. Remember: With great power comes great responsibility.
+**I don’t multitask.** If you have my attention, you have all of it.
 
 **I’m a solvaholic.** I need a problem to solve in much the same way an alcoholic needs a drink and a junky needs more junk.
 

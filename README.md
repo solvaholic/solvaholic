@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ### How to connect with @solvaholic?
 
-- Slack
-- [Keybase](https://keybase.io/solvaholic)
+Slack, [Keybase](https://keybase.io/solvaholic), or [GitHub](https://github.com/solvaholic/solvaholic/issues/new)
 
 ### What matters to @solvaholic?
 
